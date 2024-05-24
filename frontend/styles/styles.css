@@ -17,6 +17,7 @@ body {
 
 h1, h2 {
   color: #93005a;
+  text-align: center;
 }
 
 #root {
@@ -34,3 +35,16 @@ header, footer {
   align-items: center;
   padding: 1rem;
 }
+
+.fig {
+  color: red;
+  text-align: center;
+  padding-right: 100px;
+}
+
+.img {
+  padding-left: 100px;
+  padding-top: 30px;
+  align-items: center;
+}
+
